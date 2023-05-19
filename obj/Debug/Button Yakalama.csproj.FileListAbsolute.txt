@@ -1,0 +1,10 @@
+C:\Users\eda öncel\Desktop\Button Yakalama\bin\Debug\Button Yakalama.exe.config
+C:\Users\eda öncel\Desktop\Button Yakalama\bin\Debug\Button Yakalama.exe
+C:\Users\eda öncel\Desktop\Button Yakalama\bin\Debug\Button Yakalama.pdb
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button Yakalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button_Yakalama.Form1.resources
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button_Yakalama.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button Yakalama.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button Yakalama.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button Yakalama.exe
+C:\Users\eda öncel\Desktop\Button Yakalama\obj\Debug\Button Yakalama.pdb
